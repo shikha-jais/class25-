@@ -1,0 +1,2 @@
+# class25-
+inharitance
